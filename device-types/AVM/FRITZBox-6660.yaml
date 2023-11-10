@@ -2,11 +2,12 @@
 manufacturer: AVM
 model: FRITZ!Box 6660
 slug: avm-fritzbox-6660
-part_number: '20002910'
+part_number: "20002910"
 u_height: 0
 is_full_depth: false
 airflow: passive
-comments: '[AVM FRITZ!Box 6660 Datasheet](https://avm.de/produkte/fritzbox/fritzbox-6660/technische-daten/)'
+comments: "[AVM FRITZ!Box 6660
+  Datasheet](https://avm.de/produkte/fritzbox/fritzbox-6660/technische-daten/)"
 power-ports:
   - name: Power
     type: dc-terminal
