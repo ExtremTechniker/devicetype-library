@@ -1,0 +1,27 @@
+---
+manufacturer: Netgear
+model: GS608
+slug: netgear-gs608
+u_height: 0
+is_full_depth: false
+airflow: passive
+power-ports:
+  - name: PS
+    type: dc-terminal
+interfaces:
+  - name: GigabitEthernet/1
+    type: 1000base-t
+  - name: GigabitEthernet/2
+    type: 1000base-t
+  - name: GigabitEthernet/3
+    type: 1000base-t
+  - name: GigabitEthernet/4
+    type: 1000base-t
+  - name: GigabitEthernet/5
+    type: 1000base-t
+  - name: GigabitEthernet/6
+    type: 1000base-t
+  - name: GigabitEthernet/7
+    type: 1000base-t
+  - name: GigabitEthernet/8
+    type: 1000base-t
