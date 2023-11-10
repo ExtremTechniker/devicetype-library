@@ -27,7 +27,7 @@ interfaces:
     type: other
   - name: LAN1
     label: LAN 1
-    type: 2500base-t
+    type: 2.5gbase-t
   - name: LAN2
     label: LAN 2
     type: 1000base-t
